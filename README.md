@@ -10,3 +10,9 @@ Mining job for QBCore using qb-target, qb-menu and qb-lock!
 ```
 
 # Discord: https://discord.gg/AQHbsahZsV
+
+# Dependencies:
+
+qb-target: https://github.com/BerkieBb/qb-target
+qb-menu: https://github.com/qbcore-framework/qb-menu
+qb-lock: https://github.com/M-Middy/qb-lock
